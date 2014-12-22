@@ -1,0 +1,6 @@
+BASE		:	tesisescueladb
+HOST		:	localhost
+PUERTO		:	4444
+DATASOURCE	:	tesisescuela
+CLAVE		:	tesisescuela
+USUARIO		:	tesisescuela
